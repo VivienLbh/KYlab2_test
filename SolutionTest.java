@@ -1,5 +1,6 @@
 import static org.junit.jupiter.api.Assertions.*;
 
+//great
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
@@ -40,7 +41,7 @@ class SolutionTest {
         assertEquals(expected3, result3);
     }
 
-
+//测试覆盖率很高
 	@Test
     public void testFindLongestNode() {
         Solution solution = new Solution();
